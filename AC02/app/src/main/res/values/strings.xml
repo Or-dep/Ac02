@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AC02</string>
+    <string name="mensagem_login">Area de Login</string>
+    <string name="action_buscar">Buscar</string>
+    <string name="action_atualizar">Atualizar</string>
+    <string name="action_config">Config</string>
+</resources>
