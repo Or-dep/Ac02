@@ -1,5 +1,7 @@
 detalhes do projeto na pasta "doc"
 
+Versão atual usada = "acs"
+
 versão atual 0.0.01
 
 Atualização de projeto:
