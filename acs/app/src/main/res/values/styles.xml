@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Acs" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!--importando cores do color.xml-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorSecondary">@color/colorTitles</item>
+        <item name="colorOnBackground">@color/colorBackground</item>
+        <item name="colorAccent">@color/colorButton1</item>
+        <!--setando cores importadas-->
+        <item name="android:windowBackground">?attr/colorOnBackground</item><!--set da cor do fundo-->
+        <item name="android:colorPrimaryDark">?attr/colorPrimary</item><!--set da cor da barra superior-->
+        <item name="android:textColorPrimary">?attr/colorSecondary</item><!--set cor do titulo-->
+        <item name="android:colorAccent">?attr/colorAccent</item><!--set cor de ações de objetos-->
+    </style>
+</resources>
