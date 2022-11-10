@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBackground">#646464</color>
+    <color name="colorButton1">#FF03DAC5</color>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryText">#D3D3D3</color>
+    <color name="colorTexts">#FF018786</color>
+    <color name="colorTitles">#FFFFFF</color>
+    <color name="gray">#808080</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <string name="action_settings">Limpar</string>
+    <string name="action_settings2">Salvar</string>
+    <string name="app_name">acs</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_gallery">Operações recentes</string>
+    <string name="menu_home">Home</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="title_activity_atualizacoes">Atualizacoes</string>
+    <string name="titulo_app">Quik-Stock</string>
+    <string name="versao">Version - 0.01</string>
+    <style name="Theme.Acs" parent="Theme.MaterialComponents.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorSecondary">@color/colorTitles</item>
+        <item name="colorOnBackground">@color/colorBackground</item>
+        <item name="colorAccent">@color/colorButton1</item>
+        
+        <item name="android:windowBackground">?attr/colorOnBackground</item>
+        <item name="android:colorPrimaryDark">?attr/colorPrimary</item>
+        <item name="android:textColorPrimary">?attr/colorSecondary</item>
+        <item name="android:colorAccent">?attr/colorAccent</item>
+    </style>
+    <style name="Theme.Acs.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.Acs.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Acs.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>

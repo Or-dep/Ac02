@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\layout_app_bar_atualizacoes.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\app_bar_atualizacoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\drawable_ic_baseline_save_1.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\drawable\\ic_baseline_save_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.acs.app-merged_res-40:/layout_activity_infos.xml.flat",
+        "source": "com.example.acs.app-main-42:/layout/activity_infos.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\layout_fragment_blank.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\fragment_blank.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\layout_adapter_lista_layout.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\adapter_lista_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\layout_historico.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\historico.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\layout_activity_atualizacoes.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\activity_atualizacoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\drawable_ic_baseline_history_24.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\drawable\\ic_baseline_history_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\drawable_ic_home_.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\drawable\\ic_home_.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\drawable_box.png.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\drawable\\box.png"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\layout_activity_listas.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\activity_listas.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\layout_activity_recycle.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\activity_recycle.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\layout_content_atualizacoes.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\content_atualizacoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\drawable_ic_arrow_down_24.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\drawable\\ic_arrow_down_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\layout_nav_header_atualizacoes.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\nav_header_atualizacoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.acs.app-merged_res-40:/layout_fragment_home.xml.flat",
+        "source": "com.example.acs.app-main-42:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\drawable_box1.png.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\drawable\\box1.png"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\menu_atualizacoes.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\menu\\atualizacoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\drawable_ic_baseline_limpar_1.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\drawable\\ic_baseline_limpar_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\drawable_ic_menu.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\drawable_home1.png.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\drawable\\home1.png"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\layout_activity_infos.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\activity_infos.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\layout_adapter_lista.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\adapter_lista.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-merged_res-40:\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\fragment_gallery.xml"
+    }
+]

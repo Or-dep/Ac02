@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-mergeDebugResources-39:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-mergeDebugResources-39:\\layout\\activity_recycle.xml",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\activity_recycle.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-mergeDebugResources-39:\\layout\\activity_listas.xml",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\activity_listas.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-mergeDebugResources-39:\\layout\\fragment_blank.xml",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\fragment_blank.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-mergeDebugResources-39:\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "com.example.acs.app-mergeDebugResources-39:/layout/fragment_home.xml",
+        "source": "com.example.acs.app-main-42:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-mergeDebugResources-39:\\layout\\activity_infos.xml",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\activity_infos.xml"
+    },
+    {
+        "merged": "com.example.acs.app-mergeDebugResources-39:/layout/activity_infos.xml",
+        "source": "com.example.acs.app-main-42:/layout/activity_infos.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-mergeDebugResources-39:\\layout\\app_bar_atualizacoes.xml",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\app_bar_atualizacoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-mergeDebugResources-39:\\layout\\content_atualizacoes.xml",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\content_atualizacoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-mergeDebugResources-39:\\layout\\activity_atualizacoes.xml",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\activity_atualizacoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-mergeDebugResources-39:\\layout\\adapter_lista_layout.xml",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\adapter_lista_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-mergeDebugResources-39:\\layout\\historico.xml",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\historico.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-mergeDebugResources-39:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-mergeDebugResources-39:\\layout\\adapter_lista.xml",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\adapter_lista.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-mergeDebugResources-39:\\layout\\nav_header_atualizacoes.xml",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\nav_header_atualizacoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-mergeDebugResources-39:\\layout\\fragment_slideshow.xml",
+        "source": "C:\\Users\\pj406\\.gradle\\daemon\\7.4\\com.example.acs.app-main-42:\\layout\\fragment_slideshow.xml"
+    }
+]
